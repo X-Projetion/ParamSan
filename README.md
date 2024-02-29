@@ -34,19 +34,21 @@ options:
                         Sleep duration between requests
 ```
 
-#Running
+# Running
 ParamSan requires a url or endpoint to crawl and accept one or more inputs.
 Input URLs can be given using the -u option, and multiple values ​​can be given using comma separated input, similarly file input is supported using the -l option.
 
-#Input URL
+# Input URL
 
 main.py -u https://x-projetion.github.io/
 
-#Input List 
+# Input List 
 main.py -l list.txt
 
-<center>ParamSan Made in ❤️ By Lutfifakee</center>
 $nano
 https://x-projetion.github.io/
 youtube.com
 google.com
+
+
+<center>ParamSan Made in ❤️ By Lutfifakee</center>
