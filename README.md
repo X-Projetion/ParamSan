@@ -12,21 +12,15 @@ ParamSan
 
 
 ## Installation
-
+```
+git clone github.com/X-Projetion/ParamSan/
+```
 
 ## Usage
 
 ```
 main.py -h
-```
 
-```
-git clone github.com/X-Projetion/ParamSan/
-```
-
-
-
-```
 ParamSan is a fast crawler that focuses on retrieving url parameters from a given url
 
 options:
