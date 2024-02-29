@@ -52,4 +52,4 @@ youtube.com
 google.com
 ```
 <br><br>
-<center>ParamSan Made in ❤️ By Lutfifakee</center>
+<h4 align="center">ParamSan Made in ❤️ By Lutfifakee</h4>
