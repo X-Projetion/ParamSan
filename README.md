@@ -36,3 +36,8 @@ options:
   -s SLEEP, --sleep SLEEP
                         Sleep duration between requests
 ```
+
+
+##Running
+ParamSan requires a url or endpoint to crawl and accept one or more inputs.
+Input URLs can be given using the -u option, and multiple values ​​can be given using comma separated input, similarly file input is supported using the -l option
