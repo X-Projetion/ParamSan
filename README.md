@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="paramsan.png" alt="paramsan" width="200px">
+  <img src="paramsan.png" alt="paramsan" width="500px">
   <br>
 </h1>
 
