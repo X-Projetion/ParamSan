@@ -12,6 +12,14 @@ ParamSan
 
 
 ## Installation
+
+
+## Usage
+
+```
+main.py -h
+```
+
 ```
 git clone github.com/X-Projetion/ParamSan/
 ```
