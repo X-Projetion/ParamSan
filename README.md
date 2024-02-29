@@ -10,13 +10,13 @@ ParamSan is a tool for searching URL parameters on a website.
 
 ## Installation
 ```
-git clone github.com/X-Projetion/ParamSan/
+$ git clone github.com/X-Projetion/ParamSan/
 ```
 
 ## Usage
 
 ```
-main.py -h
+$ main.py -h
 
 ParamSan is a fast crawler that focuses on retrieving url parameters from a given url
 
@@ -40,13 +40,13 @@ Input URLs can be given using the -u option, and multiple values ​​can be gi
 
 # Input URL
 
-main.py -u https://x-projetion.github.io/
+$ python3 main.py -u https://x-projetion.github.io/
 
 # Input List 
-main.py -l list.txt
+$ python3 main.py -l list.txt
 
 ```
-$nano
+$ nano
 https://x-projetion.github.io/
 youtube.com
 google.com
