@@ -52,4 +52,4 @@ youtube.com
 google.com
 ```
 <br><br>
-<h4 align="center">ParamSan Made in ❤️ By Lutfifakee</h4>
+<h4 align="center">ParamSan Made in ❤️ By X-Projetion</h4>
