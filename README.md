@@ -45,10 +45,11 @@ main.py -u https://x-projetion.github.io/
 # Input List 
 main.py -l list.txt
 
+```
 $nano
 https://x-projetion.github.io/
 youtube.com
 google.com
-
-
+```
+<br><br>
 <center>ParamSan Made in ❤️ By Lutfifakee</center>
