@@ -6,10 +6,7 @@
 <h4 align="center">Crawling URL parameters</h4>
 
 # ParamSan
-ParamSan
-
-
-
+ParamSan is a tool for searching URL parameters on a website.
 
 ## Installation
 ```
@@ -41,3 +38,21 @@ options:
 ##Running
 ParamSan requires a url or endpoint to crawl and accept one or more inputs.
 Input URLs can be given using the -u option, and multiple values ​​can be given using comma separated input, similarly file input is supported using the -l option
+
+
+
+
+#Input URL
+
+main.py -u https://x-projetion.github.io/
+
+
+#Input List 
+main.py -l list.txt
+
+
+<center>ParamSan Made in ❤️ By Lutfifakee</center>
+$nano
+https://x-projetion.github.io/
+youtube.com
+google.com
