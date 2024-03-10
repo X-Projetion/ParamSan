@@ -1,12 +1,12 @@
+# ParamSan
+ParamSan is a tool for searching URL parameters on a website.
+
 <h1 align="center">
   <img src="paramsan.png" alt="paramsan" width="500px">
   <br>
 </h1>
 
 <h4 align="center">Crawling URL parameters</h4>
-
-# ParamSan
-ParamSan is a tool for searching URL parameters on a website.
 
 ## Installation
 ```
