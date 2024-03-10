@@ -47,7 +47,6 @@ $ python3 main.py -l list.txt
 
 ```
 $ nano
-https://x-projetion.github.io/
 youtube.com
 google.com
 ```
